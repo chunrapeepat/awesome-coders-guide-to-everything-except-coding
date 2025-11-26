@@ -39,3 +39,7 @@ A curated list of guides, online courses, articles, and resources for coders, en
 
 
 ## 💪 Health and Fitness
+
+|  | Name | Short Description | Format | Published Date | Author |
+| -- | ---| ------ | ------ | ------ | ------ |
+| 💪 | [A Developers Guide to Getting Fit](https://dev.to/httpjunkie/a-developers-guide-to-getting-fit-pif) | “This article is about intermittent fasting” | Article | Feb 10, 2019 | [Eric Bishard](https://dev.to/httpjunkie) |
