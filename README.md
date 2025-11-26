@@ -33,6 +33,7 @@ A curated list of guides, online courses, articles, and resources for coders, en
 |  | Name | Short Description | Format | Published Date | Author |
 | -- | ---| ------ | ------ | ------ | ------ |
 | 🎶 | [Chromatone](https://chromatone.center/) | Visual Music Language to learn, explore and communicate with | Website | - | [@chromatone](https://github.com/chromatone/) |
+| 🔊 | [Sound](https://ciechanow.ski/sound/) | “In this article I’ll explain what sound is, how it’s created and propagated.” | Article | October 18, 2022 | [Bartosz Ciechanowski](https://ciechanow.ski/) |
 
 
 ## 💪 Health and Fitness
