@@ -34,6 +34,7 @@ A curated list of guides, online courses, articles, and resources for coders, en
 | -- | ---| ------ | ------ | ------ | ------ |
 | 🎶 | [Chromatone](https://chromatone.center/) | Visual Music Language to learn, explore and communicate with | Website | - | [@chromatone](https://github.com/chromatone/) |
 | 🔊 | [Sound](https://ciechanow.ski/sound/) | “In this article I’ll explain what sound is, how it’s created and propagated.” | Article | October 18, 2022 | [Bartosz Ciechanowski](https://ciechanow.ski/) |
+| 🎹 | [Music theory for nerds](https://eev.ee/blog/2016/09/15/music-theory-for-nerds/) | “Here is what I gathered, from the perspective of someone whose only music class was learning to play four notes on a recorder in second grade.” | Article | Sep 15, 2016 | [Eevee](https://eev.ee/) |
 
 
 ## 💪 Health and Fitness
